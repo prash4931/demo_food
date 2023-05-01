@@ -1,16 +1,13 @@
-# demo_food
+# Food App
 
-A new Flutter project.
+A Food App made with Flutter & Dart
 
-## Getting Started
+#Snapshots
 
-This project is a starting point for a Flutter application.
+List Screen
 
-A few resources to get you started if this is your first Flutter project:
+<img align="left" width="200" src="https://user-images.githubusercontent.com/39942340/235302339-3ac46a56-da8f-4835-814b-0fde1d1f700e.jpeg">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Details Screen
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img align="left" width="200" src="https://user-images.githubusercontent.com/39942340/235302349-20ce7426-0c58-4221-97ba-580acf431fe1.jpeg">
